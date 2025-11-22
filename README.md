@@ -1,1 +1,1 @@
-Site for ai agent company AGISONA (agisona.pl)
+# Site for ai agent company AGISONA (agisona.pl)
